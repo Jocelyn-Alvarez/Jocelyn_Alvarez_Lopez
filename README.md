@@ -19,7 +19,7 @@ about completing computer technological based projects for the workplace or coll
 
 # Skills in Technologies
 - Types : Javascript , Python , Microsoft Excel , Microsoft Word
-- Web: 
+- Web: Python coding
 - Tools: Python coding , Ribbon tools , Github
 
  # Contact information
