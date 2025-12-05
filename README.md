@@ -26,7 +26,7 @@ about completing computer technological based projects for the workplace or coll
   -Gmail:jocelyn.alvarez.co@gmail.com 
   - College Email: JOAL8403@stu.sjcc.edu
   - Personal Email : jocelynalvarez.co@icloud.com
-  - Linked in   Url :www.linkedin.com/in/jocelyn-e-alvarez-lopez-9b31473a0
+  - Linked in Url :www.linkedin.com/in/jocelyn-e-alvarez-lopez-9b31473a0
   - Mobile Number: (669)237-9449
 
 
